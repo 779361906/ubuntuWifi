@@ -1,0 +1,14 @@
+{
+    "networks":[
+    {
+    "key_mgmt":"WPA-PSK",
+    "psk":"witmob1001",
+    "ssid":"witmob-adsl"
+    },
+    {
+    "key_mgmt":"WPA-PSK",
+    "psk":"@witmob1301",
+    "ssid":"witmob-internal"
+    }
+    ]
+}
